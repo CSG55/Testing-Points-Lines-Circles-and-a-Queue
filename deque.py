@@ -1,8 +1,8 @@
 #Kareem Khaled
 #khalem1
 
-## @file DequeCircleModule.py
-#  @title DequeCircleModule
+## @file deque.py
+#  @title deque
 #  @author Kareem Khaled
 #  @date 2/19/2017
 
